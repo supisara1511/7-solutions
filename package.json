@@ -2,7 +2,7 @@
   "name": "auto-delete-todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/supisara1511/7-solutions",
+  "homepage": "https://supisara1511.github.io/7-solutions",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
