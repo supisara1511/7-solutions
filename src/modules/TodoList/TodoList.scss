@@ -1,0 +1,28 @@
+.todo-list-container {
+  display: flex;
+
+  .list-container {
+    flex: 1;
+    margin: 0 10px;
+    min-height: 560px;
+
+    &:not(.list-main) {
+      border: 1px solid #ddd;
+    }
+
+    .list-items {
+      gap: 8px;
+      display: flex;
+      flex-direction: column;
+      padding: 16px;
+      height: 100%;
+    }
+
+    .list-name {
+      background-color: #ededed;
+      padding: 16px;
+      font-size: 18px;
+      text-align: center;
+    }
+  }
+}
